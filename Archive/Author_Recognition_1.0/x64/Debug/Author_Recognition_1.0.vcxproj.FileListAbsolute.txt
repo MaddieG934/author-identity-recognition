@@ -1,0 +1,3 @@
+C:\Users\cooki\Desktop\Directed Research\Author_Recognition_1.0\x64\Debug\Author_Recognition_1.0.exe
+C:\Users\cooki\Desktop\Fall 2023\Directed Research\Author_Recognition_1.0\x64\Debug\Author_Recognition_1.0.exe
+C:\Users\cooki\Desktop\Spring 2024\Directed Research\Author_Recognition_1.0\x64\Debug\Author_Recognition_1.0.exe
